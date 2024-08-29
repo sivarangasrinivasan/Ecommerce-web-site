@@ -1,0 +1,10 @@
+SCREEN SHOTS OF ECOMMERCE WEB SITE
+![Screenshot 2024-08-29 214629](https://github.com/user-attachments/assets/f79c1a45-3932-4070-9796-dd730a3f3db5)
+![Screenshot 2024-08-29 214700](https://github.com/user-attachments/assets/88356a1c-c034-435c-9793-3dde1a0a2e0c)
+![Screenshot 2024-08-29 214719](https://github.com/user-attachments/assets/d19d5e9e-ab7d-4821-9f33-c18e43da9970)
+![Screenshot 2024-08-29 214747](https://github.com/user-attachments/assets/6488234f-f4a0-46b2-9c11-fa2a25b87d0d)
+![Screenshot 2024-08-29 214808](https://github.com/user-attachments/assets/6593c624-8a63-4473-ad96-ab830bd83cb4)
+![Screenshot 2024-08-29 214834](https://github.com/user-attachments/assets/e6dcd674-21f3-4e88-956f-dccaaa16b65b)
+![Screenshot 2024-08-29 214858](https://github.com/user-attachments/assets/baabaf6b-6e16-4f0b-b72d-d4bacccc627a)
+![Screenshot 2024-08-29 214918](https://github.com/user-attachments/assets/71d62ada-9cdb-4901-924a-f181b082e20e)
+![Screenshot 2024-08-29 214941](https://github.com/user-attachments/assets/0957fd6d-d150-4811-908c-66705ace3fb8)
